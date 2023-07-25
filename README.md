@@ -1,1 +1,1 @@
-# power-bi-Project-01-Adidas-US-sales-analysis
+# Kindly access the files in given order.
